@@ -1,6 +1,9 @@
 # Top_Beauty_SQL
 
-Analiza danych dotyczących produktów kosmetycznych
+Analiza danych dotyczących produktów kosmetycznych w SQl
+
+![SQL](https://img.shield.io)
+![PostgreSQL](https://img.shields.io)
 
 Źródło: Kaggle
 
